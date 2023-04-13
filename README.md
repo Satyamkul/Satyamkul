@@ -85,6 +85,19 @@
 </ul>
 </div>
 
+## 📊 My Github Stats
+
+<p align="center">
+  <br/>
+     <a href="https://github.com/GitHub-dev12345/github-readme-stats"><img alt="SatyamKul Github Stats" src="https://github-readme-stats.vercel.app/api?username=Satyamkul&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="50%" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Satyamkul Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamkul&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="40%"/></a>
+</p>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
