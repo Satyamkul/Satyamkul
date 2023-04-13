@@ -97,8 +97,8 @@
 <br/>
 <br/>
 <p align="center">
-    <a href="https://github.com/Satyamkul/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GiHub-dev12345 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamkul&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D" width="75%"/>
+    <a href="#!">
+        <img title="🔥Streak stats" alt="GiHub-dev12345 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamkul&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D" width="75%"/>
     </a>
 </p>
 <br>
