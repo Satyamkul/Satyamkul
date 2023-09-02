@@ -17,7 +17,7 @@
 - A passionate Self-taught Front-end developer
 - 👀 I’m interested in Data science and Artificial intelligence 
 - 🌱 I’m currently learning DSA and JAVA 
-- I'm Currently in my final year of BCA
+- Pursuing MCA friom AKGEC ghaziabad
 - 📫 you can connect with me on LinkedIn https://www.linkedin.com/in/satyam-kulshreshtha-841049233
 
 <br><br>
