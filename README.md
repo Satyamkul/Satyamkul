@@ -22,7 +22,7 @@
 
 🏫 Pursuing MCA from AKGEC ghaziabad 
 
-👨‍💻 All of my projects are available at https://satyamkul.github.io/Portfolio_Website/ 
+👨‍💻 All of my projects are available at https://satyamkulportfolio.netlify.app/
 
 📫 How to reach me kulsatyam2002@gmail.com 
 
