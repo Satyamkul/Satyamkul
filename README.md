@@ -30,7 +30,9 @@
 
 ⚡ Fun fact The first computer programmer was a lady named Ada Lovelace 
 
-<br><br>
+<br>
+<a href="https://app.daily.dev/satyam_kul"><img src="https://api.daily.dev/devcards/v2/SFntQobMtu7WYxMx55EDP.png?type=default&r=rss" width="356" alt="Satyam kulshreshtha's Dev Card"/></a>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
