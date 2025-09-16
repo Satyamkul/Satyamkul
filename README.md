@@ -1,8 +1,8 @@
 
 <h1 align="center"><b>Hi , I'm Satyam kulshreshtha </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A passionate frontend developer from India </h3>
+<h3 align="center">A passionate Data Analyst from India </h3>
 <p align="center">
-  <a href="#!"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello👋+Everyone..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="#!"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello👋+Everyone..&hearts;++;Self-taught+Data+Analyst,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -16,11 +16,9 @@
 
 🤝 I’m looking for help with Data science and Artificial Intelligent 
 
-👯 I’m looking to collaborate on Python Project: Gesture recoganization system 
+💬 Ask me about Data analytics ,Gen AI and software Development 
 
-💬 Ask me about Web devlopment 
-
-🏫 Pursuing MCA from AKGEC ghaziabad 
+🏫 MCA 2025
 
 👨‍💻 All of my projects are available at https://satyamkulportfolio.netlify.app/
 
