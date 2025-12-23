@@ -1,24 +1,22 @@
 
 <h1 align="center"><b>Hi , I'm Satyam kulshreshtha </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A passionate Data Analyst from India </h3>
+<h3 align="center">Software Developer | Full‑Stack & Data‑Driven Applications</h3>
 <p align="center">
-  <a href="#!"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello👋+Everyone..&hearts;++;Self-taught+Data+Analyst,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="#!"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello👋+Everyone..&hearts;++;Self-taught+Software+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
 <br>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+ **About me**
 
 <br>
 
-🌱 I’m currently learning AI and Data science 
-
-🤝 I’m looking for help with Data science and Artificial Intelligent 
-
-💬 Ask me about Data analytics ,Gen AI and software Development 
-
-🏫 MCA 2025
+- 🎓 MCA (2023–2025), Ajay Kumar Garg Engineering College, Ghaziabad  
+- 💼 Front-End Web Developer Intern @ CSRBOX (IBM) – built a responsive sustainability web app using HTML5, CSS3, JavaScript, Bootstrap  
+- 💼 Java Developer Intern @ JPMorgan Chase & Co. (Forage Virtual) – worked on Java, JDBC, JUnit, improved reliability by reducing runtime errors  
+- 🚀 Interested in full‑stack development, backend engineering, and data‑driven applications  
+- 📚 Currently strengthening system design basics, backend patterns, and cloud deployment  
 
 👨‍💻 All of my projects are available at https://satyamkulportfolio.netlify.app/
 
@@ -29,12 +27,10 @@
 ⚡ Fun fact The first computer programmer was a lady named Ada Lovelace 
 
 <br>
-<a href="https://app.daily.dev/satyam_kul"><img src="https://api.daily.dev/devcards/v2/SFntQobMtu7WYxMx55EDP.png?type=default&r=rss" width="356" alt="Satyam kulshreshtha's Dev Card"/></a>
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
 <p align="center">
@@ -86,6 +82,81 @@
     
 <br>
 </p>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+- Python • Java • JavaScript • SQL • C  
+
+**Web / App Development**
+
+- HTML5, CSS3, Bootstrap  
+- React, Next.js  
+- Streamlit (for data and AI apps)
+
+**Backend & Databases**
+
+- REST APIs  
+- SQL / MySQL
+
+**Data & Analytics**
+
+- Pandas, NumPy, Matplotlib, Seaborn  
+- Tableau, Power BI, Excel  
+
+**Tools & Platforms**
+
+- Git, GitHub, Postman  
+- Google Cloud, Jupyter Notebook  
+- Linux, VS Code
+
+---
+
+<br>
+
+## 🚀 Highlight Projects
+
+- **Chat-with-PDF Agent**  
+  Secure web app that lets users upload and query multiple PDFs using Python, LangChain, FAISS, and sentence‑transformer embeddings for fast document search and answers.  
+  _Tech_: Python, Streamlit, LangChain, FAISS, Sentence‑Transformers, PyPDF2, Perplexity API  
+
+- **IntelliConnect – AI-Powered College Community Portal**  
+  Advanced college community portal combining professional and social networking with features like user registration, secure authentication, post sharing, and real‑time communication using WebRTC.  
+  _Tech_: JavaScript, HTML/CSS, WebRTC, REST APIs, Database  
+
+
+👉 Check more projects on my [portfolio](https://satyamkulportfolio.netlify.app/) and pinned repositories.
+
+---
+
+### 🏆 Achievements
+
+- Celebal Technologies Kaggle ML Challenge – Ranked **Top 27 / 500+** with a score of **0.775** (2025). 
+- Google Cloud Arcade Challenge – Achieved **Top 10 Global Rank** on the leaderboard (2024).
+
+## 📊 My Github Stats
+
+<p align="center">
+  <br/>
+     <a href="https://github.com/GitHub-dev12345/github-readme-stats"><img alt="SatyamKul Github Stats" src="https://github-readme-stats.vercel.app/api?username=Satyamkul&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="50%" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Satyamkul Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamkul&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="40%"/></a>
+</p>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+<br/>
+<p align="center">
+    <a href="#!">
+        <img title="🔥Streak stats" alt="GiHub-dev12345 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamkul&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D" width="75%"/>
+    </a>
+</p>
+<!-- <p align="left"> 
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyamkul" alt="satyamkul" /></a> 
+</p>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br> -->
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -122,34 +193,7 @@
 </p>
 <br>
 
-## 📊 My Github Stats
-
-<p align="center">
-  <br/>
-     <a href="https://github.com/GitHub-dev12345/github-readme-stats"><img alt="SatyamKul Github Stats" src="https://github-readme-stats.vercel.app/api?username=Satyamkul&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="50%" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Satyamkul Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamkul&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="40%"/></a>
-</p>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
-<br/>
-<p align="center">
-    <a href="#!">
-        <img title="🔥Streak stats" alt="GiHub-dev12345 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamkul&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D" width="75%"/>
-    </a>
-</p>
-<p align="left"> 
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyamkul" alt="satyamkul" /></a> 
-</p>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
 
 
 
 
-<!---
-Satyamkul/Satyamkul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
